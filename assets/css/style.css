@@ -486,7 +486,7 @@ h3 {
 
 .hero__heading-accent {
   color: var(--color-gold);
-  font-style: italic;
+  /* font-style: italic; */
   font-weight: 500;
 }
 
